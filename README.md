@@ -1,3 +1,7 @@
+A shopping cart demo using the API from https://fakestoreapi.com/products built using React and styled divs. Items can be added to the shopping cart which opens in a drawer. From the cart, identical items can be incremented or removed. Item total is displayed in the cart.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
